@@ -35,7 +35,7 @@ server configuration — those are installed/sideloaded on first run. See **[SET
 The launcher is **GPL-3.0** (inherited from ZalithLauncher2). Per those terms this is a
 renamed, source-published fork that displays *"Unofficial Modified Versions"* on startup.
 
-- Launcher source: **https://github.com/slashdaemon/ZalithLauncher2** (branch `tbs-2.4.8`)
+- Launcher source: **https://github.com/slashdaemon/ZalithLauncher2** (branch `main`)
 - Upstream: https://github.com/ZalithLauncher/ZalithLauncher2
 
 The StreamCraft Android native (`liblivekit_ffi.so` inside the mod jar) is a custom
